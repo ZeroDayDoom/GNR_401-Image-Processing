@@ -1,8 +1,10 @@
 # GNR_401-Image-Processing
-# Hyperspectral Image Enhancement — Indian Pines
+## Hyperspectral Image Enhancement — Indian Pines
 
 **Author:** Ankit Rewar 
+
 **Course / Project:** Hyperspectral Image Processing (assignment)  
+
 **Dataset:** Indian Pines (provided as `.mat`)  
 
 ---
