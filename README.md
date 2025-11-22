@@ -43,5 +43,5 @@ Implemented algorithms:
 
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
-   cd <repo-name>
+   git clone <https://github.com/ZeroDayDoom/GNR_401-Image-Processing>
+   cd <Image Processing>
