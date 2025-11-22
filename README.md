@@ -11,7 +11,7 @@
 
 ## Project summary
 
-This repository contains an implementation of fundamental image processing and enhancement algorithms applied to a hyperspectral image cube (Indian Pines). All core image-processing algorithms were implemented from scratch (no library functions used for the core transforms), as required by the project brief. :contentReference[oaicite:0]{index=0}
+This repository contains an implementation of fundamental image processing and enhancement algorithms applied to a hyperspectral image cube (Indian Pines). All core image-processing algorithms were implemented from scratch (no library functions used for the core transforms), as required by the project brief. :contentReference
 
 Implemented algorithms:
 - Log transform
